@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Large datasets
+data/
+datasets/
+
+# ML model files
+*.h5
+*.keras
+
+# OS
+.DS_Store
